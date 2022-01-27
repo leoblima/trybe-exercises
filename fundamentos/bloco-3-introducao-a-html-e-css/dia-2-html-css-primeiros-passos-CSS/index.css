@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+body {
+  background: whitesmoke;
+  font-size: 16px;
+}
+h1 {
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+  text-decoration-style: double;
+  background: orange;
+}
+li {
+  background: paleturquoise;
+  color: paleturquoise;
+}
+a {
+  color: paleturquoise;
+  background: paleturquoise;
+}
+p {
+  font-weight: 600;
+  font-size: 3rem;
+}
+.exercicio {
+  background: black;
+}
