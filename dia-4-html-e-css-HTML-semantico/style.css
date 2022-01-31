@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  background: black;
+  color: whitesmoke;
+}
+.titulo {
+  height: 10vh;
+  vertical-align: middle;
+}
+.navegacao {
+  display: inline;
+}
+.navegacao li {
+  display: inline-block;
+  padding: 20px 10px;
+}
+.navegacao li a {
+  text-decoration: none;
+  border: 2px solid white;
+  border-radius: 100%;
+  padding: 20px 30px;
+  display: inline-block;
+}
+.link-youtube {
+  text-decoration: none;
+  margin-top: 2vh;
+}
+.link-youtube a {
+  margin-top: 2vh;
+  text-decoration: none;
+  padding: 20px 30px;
+  display: block;
+  width: 50%;
+  margin: auto auto;
+  border: 2px solid white;
+  border-radius: 12px;
+  color: brown;
+}
+.link-youtube a:hover {
+  background: wheat;
+  color: black;
+  border: 2px solid wheat;
+}
+.tabela-cientifica {
+  display: inline-block;
+  border: 2px solid white;
+}
